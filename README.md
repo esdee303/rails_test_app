@@ -1,1 +1,1 @@
-1. Complete Ruby on Rails Developer by esdee303
+1. First Test Repo on the Complete Ruby on Rails Developer course by esdee303
